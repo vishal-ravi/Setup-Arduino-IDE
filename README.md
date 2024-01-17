@@ -1,4 +1,4 @@
-# README for Arduino IDE Setup for NODEMCU ESP8266
+# Arduino IDE Setup for NODEMCU ESP8266
 
 This repository provides a guide on setting up the Arduino IDE for NODEMCU ESP8266 development. Follow the steps below to get started:
 
